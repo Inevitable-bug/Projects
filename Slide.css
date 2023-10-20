@@ -1,0 +1,12 @@
+.photoslide{
+  display: flex;
+  margin-top: 5vh;
+  width: 360vw;
+  height: 100vh;
+  justify-content: space-between;
+}
+.slide{
+  width: 70vh;
+  height: 70vh;
+  border-radius: 4vw;
+}
